@@ -31,7 +31,7 @@ The **Smart Pay Bot** is a Telegram bot that allows users to make donations usin
    ```
 
 3. **Configure the Bot:**  
-   - Create a `config.py` file in the project directory.  
+   - Edit The `config.py` file in the project directory.  
    - Add your API ID, API Hash, and Bot Token:  
      ```python
      API_ID = "YOUR_API_ID_HERE"
