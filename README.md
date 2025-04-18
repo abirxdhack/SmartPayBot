@@ -38,6 +38,7 @@ The **Smart Pay Bot** is a Telegram bot that allows users to make donations usin
      API_HASH = "YOUR_API_HASH_HERE"
      BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
      COMMAND_PREFIX = [",", ".", "/", "!"]
+     ADMIN_IDS = [123456789, 987654321]
      ```  
    - Obtain your API ID and Hash from [my.telegram.org](https://my.telegram.org).  
    - Create a bot and get the token from [BotFather](https://t.me/BotFather).  
