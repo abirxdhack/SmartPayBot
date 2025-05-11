@@ -5,3 +5,4 @@ COMMAND_PREFIX = [",", ".", "/", "!"]
 
 # Add your admin user IDs here
 ADMIN_IDS = [123456789, 987654321]  # Replace with actual Telegram user IDs
+DEVELOPER_USER_ID = "Replace With Your Own UserID"
